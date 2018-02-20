@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>ikotrasinsk@gmail.com</email>
+		<name>Igor Kotrasiński</name>
+	</maintainer>
+	<longdescription>
+		Obconf 0.11, used since 0.9 collides with lxqt-i10n
+	</longdescription>
+	<use>
+		<flag name="pull-translations">Pull your own translations instead of relying on lxqt-l10n.</flag>
+	</use>
+</pkgmetadata>
