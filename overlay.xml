@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+	<repo priority="50" status="unofficial">
+		<name>my-overlay</name>
+		<description>My own custom overlay.</description>
+		<homepage>None</homepage>
+		<owner>
+			<email>ikotrasinsk@gmail.com</email>
+			<name>Igor Kotrasiński</name>
+		</owner>
+		<source type="git">file:///home/igor/Dokumenty/my-overlay/</source>
+	</repo>
+</repositories>
