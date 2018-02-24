@@ -2,7 +2,7 @@
 <repositories version="1.0">
 	<repo priority="50" status="unofficial">
 		<name>lxqt-overlay</name>
-		<description>An unofficial lxqt overlay to support undermaintained Gentoo packages.</description>
+		<description>My own little overlay to test lxqt stuff.</description>
 		<homepage>https://github.com/Wesmania/lxqt-overlay</homepage>
 		<owner>
 			<email>ikotrasinsk@gmail.com</email>
